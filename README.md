@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anilgitme/anilgitme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anil, I'm a full stack engineer currently finising up my studies at Lambda. I'm passionate about creating and learning new technologies.
 
 Here are some ideas to get you started:
 
